@@ -56,4 +56,6 @@
     :global(canvas) {
         touch-action: none;
     }
+    // qmidmini recois
 </style>
+
